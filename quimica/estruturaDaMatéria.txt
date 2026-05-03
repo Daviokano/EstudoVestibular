@@ -1,0 +1,27 @@
+Elemento químico: conjunto de átomos que possuem o mesmo número atômico, isto é: a mesma quantidade de prótons em seus núcleos. 
+
+Moderna classificação da tabela periódica: Organiza em ordem crescente de número atômico, cada coluna apresenta uma família (grupo),
+uma vez que apresentam átomos com características parecidas. 
+
+Elementos representativos: último elétron (mais energético) se encontra na camadas s ou p, são todos aqueles do grupo A.
+
+Elementos de transição: último elétron (mais energético) se encontra na camadas d ou f, são todos aqueles do grupo B. 
+
+Localização da tabela periódica: grupo + período (coordenada vertical + horizontal).
+				período => dado pela quantidade de camadas de elétrons que ele possuí. 
+				grupo => soma dos elétrons da última camada. 
+
+Metais: elementos químicos que são sólidos a temperatura ambiente (com exceção do mercúrio), o ótima condução de elétrica / calor e 
+ótima eletropositividade, altos pontos de fusão e ebulição, maleáveis e muito densos e são brilhantes. 
+
+Ametais: características opostas ao metais, ex: péssimos condutores de energia, baixos pontos de fusão e ebulição, gasosos em temperatura ambiente, são elétron negativos. 
+
+Gases nobres: se dão muito bem sozinhos, logo não fazem ligações químicas 
+
+Semimetais: apresentam propriedades entre os metais e os ametais
+
+Raio atômico: distância do núcleo de um átomo até a sua última camada de elétrons. 
+
+Energia (potencial) de ionização: quantidade de energia necessária para tirar um elétron de um átomo do elemento em estado gasoso. 
+
+Eletronegatividade: tendência que um átomo tem em atrair elétrons para perto de si. 

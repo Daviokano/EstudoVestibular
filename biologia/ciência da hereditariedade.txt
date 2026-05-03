@@ -1,0 +1,37 @@
+ciência da hereditariedade = genética 
+
+hereditariedade = a transmissão de características entre gerações. 
+
+cor no olho, tipo sanguíneo, doenças genéticas, tipo de cabelo, altura etc. 
+
+Uma célula => cromossomos => dna => genes 
+
+genes? -> Determinam suas características. 
+Como ele faz isso? ->  Um segmento específico da fita de dna que possuí uma "receita" para produzir uma proteína. Proteína essa 
+ que se manifesta uma característica, como: cor dos olhos, da pele etc
+
+cromossomos? -> Estruturas que guardam o dna, os humanos possuem 46 cromossomos (23 da mãe e 23 do pai, ou seja: 23 pares).
+obs: cada par forma um cromossomo homólogo. 
+
+cada cromossomo de um par faz a mesma coisa. São chamados de homólogos
+
+locos gênicos: lugar do cromossomo onde se encontra o gene
+
+um desse pares, os cromossomos 45 e 46, serão os responsáveis por determinar o seu sexo: xx (muié) ou xy (macho). Esses que tem relação com o sexo são chamados de autossônicos 
+o resto são chamados de sexuais 
+um desses cromossomos foi enviado pelo pai e o outro pela mãe. Mas:
+Se os dois possuem o mesmo tipo de informação, mas de uma forma diferente (O pai pode ter cabelo preto e a mãe ser loira), 
+então como o seu organismo determina qual característica você terá? Devido a diferença de dominância/dominante e recessivo 
+
+Primeira lei de mendel: Lei da segregação de fatores.
+ - Qualquer característica hereditária é condicionada por um par de genes (fatores).
+ - Os fatores se segregam nos gametas. Fatores (genes).
+ - Os fatores que estão nos gametas se reúnem nos filhos.
+ 
+ alelos: variações de um tipo de gene, ex: Vv
+ 
+ Sempre que você for portador de um gene de uma doença, mas não tiver ela, o gene dela é recessivo
+ 
+ Aa aa
+ 
+ Aa Aa aa aa 

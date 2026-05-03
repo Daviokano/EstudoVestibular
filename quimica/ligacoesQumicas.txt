@@ -1,0 +1,28 @@
+Substâncias químicas são constituídas de átomos presos entre si, isto é: ligados
+
+Apenas os gases nobres não são ligados a outros átomos: He, Ne, Ar, Kr, Xe, Rn e Og
+
+Teoria de octeto: quando um átomo possuir uma eletrosfera igual a de um gás nobre, será 
+tão estável quanto o mesmo. 
+-> As ligações entre os átomos envolvem elétrons.
+-> As ligações são processos de estabilização dos átomos. 
+-> Os átomos tendem a compartilhar ou perder elétrons até conseguirem uma configuração igual a de um gás nobre. 
+
+ligação iônica: 
+
+	-> Ocorre quando existe transferência de elétrons: átomo perde elétron (vira cátion), átomo ganha elétron (vira ânion).
+	a atração entre esses íons forma essa ligação. 
+	-> Essa ligação ocorre entre elementos metais + ametais. 
+
+	Passo a passo: 1. Metal doa elétrons
+	       	       2. Ametal recebe elétrons 
+	               3. Formam-se íons de com cargas opostas
+	               4. Esses íons se atraem 
+
+ligação covalente: 
+
+	-> Dois átomos compartilham seus elétrons para ficarem estáveis.
+	-> Ocorre com ametal + ametal. 
+	ex: H20, C02, 02 etc. 
+	-> compartilham para atingir a regra do octeto, ou dueto no caso do H
+	-> 3 tipos: simples, dupla, tripla. 
