@@ -1,0 +1,33 @@
+Fotossíntese: produção de matéria orgânica através de compostos simples, como CO2, água e nutrientes inorgânicos sob a ação da luz. 
+
+Principal objetivo: produzir o amido 
+
+	-> Duas principais fases (as duas ocorrem no interior dos cloroplastos): . Fase fotoquímica (fase clara): precisa da luz
+				  . Fase química (fase escura): não precisa da luz 
+
+Cloroplasto: -> dupla membrana, material genético próprio e autonomia de duplicação/síntese proteica. 
+	     -> Armazenam nas membranas de seus tilacoides os pigmentos fotossintéticos (moléculas de clorofila a e b, além dos carotenoides).
+	     -> o conjunto de tilacoides formam pilhas, chamadas granum. 
+	     
+Pigmentos fotossintéticos: -> dois principais (clorofila A e B, além dos carotenoides (amarelo, vermelho ou alaranjado)).
+			   -> clorofila A existe em todos os seres eucariontes fotossintetizantes e nas cianobactérias.
+			   -> clorofila B é um pigmento acessório que amplia o espectro de absorção da luz, sendo encontrada em plantas e algas verdes.
+			   -> carotenoides ocorrem em todos os seres autótrofos fotossintetizantes, sendo normalmente mascarados pelas clorofilas. 
+			   -> a luz ao encontrar esse pigmentos pode ser absorvida ou refletida. 
+			   -> existem outros, como as clorofilas C e D.
+
+. A luz visível, usada no processo fotossintético, é um tipo de onde eletromagnética, assim como as do micro-ondas, as ondas de rádio, etc. 
+
+. É possível quantificar e comprovar a fotossíntese através de experimentos que quantificam os seus diferentes produtos formados, como 
+o do gás oxigênio: método de Engelmann e método do desprendimento de bolhas (o2).
+
+Fase escura, química ou enzimática: -> independe da luz para acontecer.
+			   	    -> acontece por meio de reações químicas que ocorrem no estroma do cloroplasto.
+			   	    -> é chamada de ciclo de calvin, ou ciclo das pentoses, onde há a fixação do C02
+			   	    e a produção de material orgânico e da água metabólica ou residual, é a fase mais lenta. 
+
+Fase clara: tilacoides 
+Fase escura: estroma
+	     
+
+
