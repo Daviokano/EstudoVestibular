@@ -1,0 +1,11 @@
+Teoria da repulsão dos pares de elétrons na camada de valência:
+
+Uma molécula adquire o arranjo espacial resultante do afastamento máximo entre os pares de elétrons ao redor do átomo principal
+
+. ligações duplas ou triplas entre os pares de elétrons são consideradas como um par de elétrons estereoativos 
+
+dois pares: geometria linear
+três pares: plana trigonal
+quatro: todos fazem ligações -> tetraedro
+	um par não faz -> piramidal
+	pares isolados -> angular

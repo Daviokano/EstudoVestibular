@@ -3,7 +3,7 @@ Fotossíntese: produção de matéria orgânica através de compostos simples, c
 Principal objetivo: produzir o amido 
 
 	-> Duas principais fases (as duas ocorrem no interior dos cloroplastos): . Fase fotoquímica (fase clara): precisa da luz
-				  . Fase química (fase escura): não precisa da luz 
+				  						 . Fase química (fase escura): não precisa da luz 
 
 Cloroplasto: -> dupla membrana, material genético próprio e autonomia de duplicação/síntese proteica. 
 	     -> Armazenam nas membranas de seus tilacoides os pigmentos fotossintéticos (moléculas de clorofila a e b, além dos carotenoides).
