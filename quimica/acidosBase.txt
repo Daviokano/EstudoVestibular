@@ -1,0 +1,12 @@
+Arnhenius: -> ácido: em água ioniza H+
+	   -> base: em água dissocia liberando OH-
+
+Bronsted-lowry: -> ácido: substância doadora de próton H+
+		-> base: substância que recebe o próton H+
+		
+principais ácidos: 
+		   .Ácido carboxílico
+		   .Fenol
+		   
+principais bases: 
+		   .Amina

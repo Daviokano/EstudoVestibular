@@ -1,0 +1,6 @@
+
+.Cargas de mesmo sinal se repelem, enquanto cargas de sinais opostos se atraem
+
+A lei de Coulomb: só é valida para corpos cujas dimensões podem ser consideradas
+desprezíveis em relação às distâncias envolvidas entre eles, ou seja: apenas corpos
+puntiformes. 

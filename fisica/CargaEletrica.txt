@@ -1,0 +1,21 @@
+Eletrostática: parte da física onde se estuda as cargas elétricas em repouso e seus efeitos.
+
+. Dois tipos de partículas que compõem os átomos e são portadores de carga elétrica: prótons (+) 
+e os elétrons (-)
+
+-> Número de prótons = Número de elétrons ( corpo neutro
+-> Número de prótons > Número de elétrons ( corpo positivamente eletrizado 
+-> Número de prótons < Número de elétrons ( corpo negativamente eletrizado
+
+. Na matéria sólida, os prótons jamais estarão em movimento.
+
+Dois principais princípios: 1. Corpos carregados podem se atrair ou se repelir: 
+			       -> cargas iguais se repelem, cargas diferentes se atraem.
+			    2. Conservação da carga elétrica: 
+			       -> em um sistema isolado termicamente, a quantidade total de carga se conserva,
+			       logo a soma das cargas elétricas do sistema sempre será constante. 
+			       
+Bons condutores e bons isolantes: Dependendo da composição de um material, alguns elétrons, por possuírem maior ou menor atração com o núcleo, 
+				  podem ter maior ou menor facilidade de se deslocar, ou seja, o material pode ser melhor ou pior condutor. 
+				  
+Eletrização: processo onde elétrons são trocados entre os corpos.
