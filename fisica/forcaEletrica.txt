@@ -1,6 +1,12 @@
+Força elétrica: .dois corpos carregados eletricamente, independente de suas cargas
+		.é necessário ter duas cargas
 
-.Cargas de mesmo sinal se repelem, enquanto cargas de sinais opostos se atraem
+atração: + -
 
-A lei de Coulomb: só é valida para corpos cujas dimensões podem ser consideradas
-desprezíveis em relação às distâncias envolvidas entre eles, ou seja: apenas corpos
-puntiformes. 
+repulsão: ++ ou -- 
+
+Fel = (k.|Q|.|q|)/r²(d²)
+
+k0 = 9 x 10⁹ (N.m²)/ C²
+
+corpos puntiformes: dimensões de seus corpos podem ser desprezadas em relação a distância entre eles. 

@@ -1,0 +1,20 @@
+O que são: Macromoléculas fundamentais na transmissão da informação genética pelas gerações,
+além da produção de proteínas pelas células. 
+
+DNA = ácido desoxirribonucleico: 
+É formado por duas cadeias que interagem por meio de suas bases nitrogenadas, formando uma dupla-hélice
+
+RNA = ácido ribonucleico:
+É uma fita única
+
+obs: vírus são uma exceção, podem encontrar tanto RNA como fita única, tanto quanto o DNA
+
+Nucleotídeos:
+		.Os ácidos nucleicos são grandes cadeias formadas por unidades denominadas nucleotídeos
+		.A sequência desses nucleotídeos é a matéria-prima para a evolução dos seres vivo
+		.Um nucleotídeo é formado por:  -> Uma pentose (açúcar com 5 carbonos, ele pode ser uma ribose ou uma desoxirribose. A
+						ribose apresenta o oxigênio no carbono 2, que falta na desoxirribose)
+						-> Uma base nitrogenada (A, T, C, G e U)
+						-> Um fosfato (Ânion com um fósforo central rodeado por hidrogênios
+
+

@@ -19,3 +19,10 @@ Bons condutores e bons isolantes: Dependendo da composição de um material, alg
 				  podem ter maior ou menor facilidade de se deslocar, ou seja, o material pode ser melhor ou pior condutor. 
 				  
 Eletrização: processo onde elétrons são trocados entre os corpos.
+
+m (mili) 10-3
+u (micro) 10-6
+n (nano) 10-9
+p (pico) 10-12
+
+formula: q=±n⋅e
