@@ -1,0 +1,64 @@
+Replicação/Autoduplicação do DNA: 
+
+			Para a célula se dividir, ela precisa copiar todo o DNA.  
+
+			1 molécula de DNA vira 2 moléculas idênticas, cada uma contendo uma parte da fita original com uma outra recém-fabricada 
+			(Replicação semiconservativa).
+
+
+			PASSO 1 - A dupla hélice se abre 
+				. Com a ajuda de uma enzima chamada "Helicase" que quebra às pontes de hidrogênio do DNA. 
+				. Antes: A=T   Depois: A  T 
+					 C=G           C  G 
+					 T=A           T  A
+			       
+		        PASSO 2 - As fitas antigas servem de molde 
+				Ex: Fita molde -> A T C G 
+				    Nova fita  -> T A G C
+		            
+		        PASSO 3 - Problema 3 - 5, a DNA polimerase (enzima que construí o DNA), só consegue adicionar nucleotídeos no sentido 5 3 
+		        
+		        PASSO 4 - Fita líder
+		        	. Na fita molde: 3 - 5 a DNA polimerase consegue acompanhar normalmente, montando a fita 5' -> 3'
+		        	
+		        PASSO 5 - Fita Atrasada
+		        	. Na fita 5 - 3, a DNA polimerase não consegue acompanhar continuamente, portando ela constrói em pequenos pedaços
+		        	. Esses pedaços são chamados de Fragmentos de Okazaki. 
+		        	
+		        PASSO 6 - A enzima Primase cria o primer 
+		        	. A DNA polimerase não consegue iniciar do zero, precisando de uma "pontinha inicial"
+		        	. Quem cria essa ponta é a primasse, surge assim o primer: pequenas sequências de RNA.
+		        
+		        PASSO 7 - DNA polimerase adiciona nucleotídeos 
+		        	. Finalmente chegou a hora da polimerase atuar, lendo a fita molde e encaixando às bases complementares. 
+		        
+		        PASSO 8 - Retirada dos primers 
+		                . Outras enzimas removem esse prime.
+		                
+		        PASSO 9 - DNA ligase une os fragmentos
+		        	. liga os fragmentos de ozaki, fechando as ligações entre eles. 
+		        	
+		        
+Transcrição (Síntese de RNA): 
+			
+			PASSO 1: - A enzima RNA polimerase encontra o gene
+				 . a polimerase percorre o DNA até achar a parte chamada de "promotor", que funciona basicamente como uma placa de início.
+				 
+			PASSO 2: - O DNA se abre
+				 . A RNA polimerase separa as duas fitas do DNA.
+				 
+		        PASSO 3: - Uma das fitas do DNA é usada como molde
+		        	 . A enzima lê apenas UMA fita do DNA, servindo assim como modelo para montar o RNA. 
+		        
+		        PASSO 4: - O RNA vai sendo montado
+		        	 . A RNA polimerase liga os nucleotídeos um atrás do outro.
+		        
+		        PASSO 5: - Transcrição termina
+		        	 . Quando a enzima encontra uma sequência de término ela: 
+		        	 	-> para o processo 
+		        	 	-> RNA é liberado
+		        	 	-> o DNA fecha de novo
+
+Tradução: - Uma mensagem na forma de uma sequência de nucleotídeos (RNAm) é utilizada para produzir uma cadeia de aminoácidos 
+
+.Existem 20 diferentes tipos de aminoácidos, formados conjuntos de nucleotídeos, chamados de códons. 
