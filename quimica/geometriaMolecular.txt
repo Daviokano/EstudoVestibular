@@ -1,11 +1,27 @@
-Teoria da repulsão dos pares de elétrons na camada de valência:
+Moléculas Biatômicas (Geometria linear)
 
-Uma molécula adquire o arranjo espacial resultante do afastamento máximo entre os pares de elétrons ao redor do átomo principal
+
+. moléculas que apresentam dois átomos (iguais ou diferentes)
+
+. Exemplos: H2, Br2, CO, HCl  -> H-H; Br-Br; 
+
+
+Moléculas Maiores 
+
+
+. Repulsão das Nuvens eletrônicas
+
+. Teoria da repulsão dos pares de elétrons na camada de valência:
+
+. Uma molécula adquire o arranjo espacial resultante do afastamento máximo entre os pares de elétrons ao redor do átomo principal
 
 . ligações duplas ou triplas entre os pares de elétrons são consideradas como um par de elétrons estereoativos 
 
-dois pares: geometria linear
-três pares: plana trigonal
-quatro: todos fazem ligações -> tetraedro
-	um par não faz -> piramidal
-	pares isolados -> angular
+Nuvens | Ligantes | Exemplos 
+
+   2   |     2    | CO2 (linear
+   3   |     2    | SO2 (Angular
+   3   |     3    | SO3 (Trigonal Plana / Triangular
+   4   |     2    | H20 (Angular
+   4   |     3    | NH3 (Piramidal
+   4   |     4    | CH3 (tetraédrica 

@@ -5,8 +5,14 @@ atração: + -
 
 repulsão: ++ ou -- 
 
-Fel = (k.|Q|.|q|)/r²(d²)
+Fel = (k.|Q|.|q|)/r²(d²) 
+
+Fel = força elétrica
+k = constante eletrostática
+q1 e q2 = cargas
+d = distância entre elas
 
 k0 = 9 x 10⁹ (N.m²)/ C²
 
 corpos puntiformes: dimensões de seus corpos podem ser desprezadas em relação a distância entre eles. 
+

@@ -1,0 +1,16 @@
+Campo Elétrico: região onde uma carga elétrica |q| sofre a ação da força elétrica. 
+
+Fel = |q|.E
+
+q = carga de prova.
+Q = Carga responsável pelo campo elétrico.
+
+linhas de campo elétrico / linhas de força elétrica.
+
+campo com uma carga + (se vc jogar um positivo, o movimento será divergente).
+
+campo com uma carga - (se vc jogar um positivo, será convergente).
+
+
+
+
